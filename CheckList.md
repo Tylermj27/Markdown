@@ -14,4 +14,4 @@
 - [x] Bolded text
 - [x] Italicized text
 - [x] Strikethrough text
-- [ ] A horizontal Rule
+- [x] A horizontal Rule
