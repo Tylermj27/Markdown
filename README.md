@@ -21,4 +21,4 @@ I could not think of any good websites to link so here is the Wiki page for Gith
 2. ~~Hopefully all of this turns out okay~~
 ---
 
-here is the link to the other markdown file:
+here is the link to the other markdown file:https://github.com/Tylermj27/Markdown/blob/master/Markdown%232.md
