@@ -4,3 +4,9 @@ First Header | Second Header
 ------------ | -------------
 info #1 | info #2
 Next Row info #1 | Next Row info #2
+
+
+![Image of a landscape](http://www.free-hdwallpapers.com/wallpapers/nature/119622.jpg)
+
+Confucius once said:
+>Our greatest glory is not in never failing, but in rising everytime we fall.
