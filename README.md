@@ -18,4 +18,4 @@ I could not think of any good websites to link so here is the Wiki page for Gith
 
 #### This is for the second list
 1. This is just some bulleted information for the second list
-2. Hopefully all of this turns out okay
+2. ~~Hopefully all of this turns out okay~~
