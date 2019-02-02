@@ -6,7 +6,7 @@
 - [x] A link between the pages
 - [ ] An image that is a file in the directory
 - [x] An image from the web
-- [ ] A code block with syntax
+- [x] A code block with syntax
 - [x] A block quote
 - [x] A bulleted list
 - [x] A numbered list
